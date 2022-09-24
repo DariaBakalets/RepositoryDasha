@@ -1,3 +1,0 @@
-line D1
-line D2
-line D3
